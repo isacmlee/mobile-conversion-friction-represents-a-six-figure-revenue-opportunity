@@ -6,7 +6,7 @@ The estimated conversion gap was **1.16–1.47 percentage points**, correspondin
 **140 unrealized mobile conversions** and **~$24k in unrealized monthly revenue** under conservative assumptions.
 
 [![Executive Summary Preview](images/02_Mobile_Conversion_Friction_Represents_a_Six-Figure_Revenue_Opportunity.png)](02_Mobile_Conversion_Friction_Represents_a_Six-Figure_Revenue_Opportunity.pdf)
-👉 **Download the executive summary (PDF):**  
+**Download the executive summary (PDF):**  
 [02_Mobile_Conversion_Friction_Represents_a_Six-Figure_Revenue_Opportunity.pdf](02_Mobile_Conversion_Friction_Represents_a_Six-Figure_Revenue_Opportunity.pdf)
 
 ## Project Structure
