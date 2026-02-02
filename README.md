@@ -5,8 +5,9 @@ Desktop users converted at a significantly higher rate than mobile users during 
 The estimated conversion gap was **1.16–1.47 percentage points**, corresponding to approximately
 **140 unrealized mobile conversions** and **~$24k in unrealized monthly revenue** under conservative assumptions.
 
-👉 **Read the full executive summary:**  
-[`02_Mobile_Conversion_Friction_Represents_a_Six-Figure_Revenue_Opportunity.pdf`](02_Mobile_Conversion_Friction_Represents_a_Six-Figure_Revenue_Opportunity.pdf)
+[![Executive Summary Preview](images/02_Mobile_Conversion_Friction_Represents_a_Six-Figure_Revenue_Opportunity.png)](02_Mobile_Conversion_Friction_Represents_a_Six-Figure_Revenue_Opportunity.pdf)
+👉 **Download the executive summary (PDF):**  
+[02_Mobile_Conversion_Friction_Represents_a_Six-Figure_Revenue_Opportunity.pdf](02_Mobile_Conversion_Friction_Represents_a_Six-Figure_Revenue_Opportunity.pdf)
 
 ## Project Structure
 - `data/` - Data extracted from BigQuery SQL from bigquery-public-data.google_analytics_sample.
